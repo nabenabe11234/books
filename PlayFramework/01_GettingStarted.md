@@ -1,4 +1,4 @@
-# Getting Started - Play Framework -
+# Getting Started　- Play Framework -
 
 Javaの基本文法を学習したけど、具体的なWebアプリケーションの作り方が分からない。そんな方を対象にした書籍です。
 
@@ -19,7 +19,7 @@ Play Frameworkには以下の特徴があり、様々な企業で採用されて
 - 特徴1
 - 特徴2
 
-その他の詳細について知りたい方は、以下の公式サイトを見てみると良いでしょう。
+その他の詳細について知りたい方は、以下の公式サイトを見てみると良いでしょう。  
 https://www.playframework.com/
 
 ## 3. 開発環境の構築
